@@ -1,0 +1,4 @@
+audio/*
+!audio/.gitkeep
+audiocue_venv
+.idea
